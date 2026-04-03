@@ -3,8 +3,7 @@
 A Power BI dashboard built on 500K rows of sales data.
 
 ## What's inside
-- `SalesDashboard.pbix` — Power BI report file
-- `sales_data.csv` — Raw sales dataset
+- `SalesDashboard.pdf` — Power BI dashboard file
 
 ## Dashboard pages
 - Revenue overview
